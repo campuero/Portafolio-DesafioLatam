@@ -1,6 +1,6 @@
 header {
-    height: 75vh;
-    background-image: url(/assets/img/ballena.jpg);
-    background-position: center;
-    background-repeat: repeat;
-  }
+  height: 70vh;
+  background-image: url(/assets/img/ballena.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
